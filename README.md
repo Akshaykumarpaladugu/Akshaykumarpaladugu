@@ -1,273 +1,535 @@
 
+<!-- =========================================================
+     AKSHAY KUMAR PALADUGU — GITHUB PROFILE README
+     Premium layout | Bordered sections | Consistent spacing
+========================================================== -->
+
 <div align="center">
 
-<!-- HERO: animated banner -->
-<a href="https://github.com/Akshaykumarpaladugu">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=AKSHAY%20KUMAR%20PALADUGU&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20PYTHON%20%E2%80%A2%20GENAI%20%E2%80%A2%20DATA%20SCIENCE&descSize=15&descAlignY=59&animation=fadeIn&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6" width="100%" alt="Akshay Kumar Paladugu — AI, Machine Learning, Python, GenAI and Data Science"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Akshay%20Kumar%20Paladugu&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Python%20%7C%20Data%20Science%20%7C%20GenAI%20%7C%20Robotics&descAlignY=58&descSize=16&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=0891B2&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications;Python+%7C+AI%2FML+%7C+Generative+AI;Data+Science+%7C+Analytics+%7C+Visualization;Exploring+LLMs%2C+RAG+and+AI+Agents;Connecting+Software%2C+IoT+and+Robotics" alt="Typing introduction"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=0891B2&center=true&vCenter=true&width=800&lines=Building+practical+AI+%26+Python+solutions;Exploring+LLMs%2C+RAG+%26+intelligent+workflows;Turning+data+into+useful+insights;Connecting+software%2C+robotics+%26+IoT" alt="Animated introduction"/>
+<a href="https://github.com/Akshaykumarpaladugu">
+  <img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/paladuguakshaykumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://coachwallah.com">
+  <img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:akshaykumar8331@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6D5AE6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Akshaykumarpaladugu"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/paladuguakshaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://coachwallah.com"><img src="https://img.shields.io/badge/Website-Coach%20Wallah-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="mailto:akshaykumar8331@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=Akshaykumarpaladugu&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Akshaykumarpaladugu&style=for-the-badge&color=075985&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01` / ABOUT MY WORK
-
-I like building technology that solves real problems. My interests span **Python development, machine learning, data analysis, Generative AI, NLP, full-stack development, mobile applications, robotics, and IoT**—from data preparation and model evaluation to prototypes that people can actually use.
+<!-- ======================== 01 ABOUT ======================== -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### ◈ AI & Machine Learning
-
-Predictive modelling, feature engineering, model evaluation, Scikit-learn workflows, neural-network fundamentals, deep learning, computer vision, and model deployment.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Generative AI & NLP
-
-LLM-powered prototypes, prompt engineering, embeddings, RAG, vector databases, LangChain, LangGraph, Hugging Face, AI agents, and tool calling.
+<h2>01 / ABOUT MY WORK</h2>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### ◈ Data & Analytics
-
-Data cleaning, exploratory data analysis, SQL, data visualization, reporting, Power BI, statistical analysis, and big-data processing.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Robotics & IoT
-
-Arduino, Raspberry Pi, ESP32, ESP8266, sensor integration, actuators, embedded programming, device messaging, and real-time monitoring concepts.
-
-</td>
-</tr>
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### ◈ Full-Stack Development
+### Hello, I'm Akshay 👋
 
-React, Next.js, Django, Flask, FastAPI, REST APIs, Node.js, Express, responsive interfaces, and database integration.
+I enjoy building practical technology solutions by combining **Python, Artificial Intelligence, Machine Learning, Data Science, and modern software development**.
+
+My interests include transforming data into useful insights, developing intelligent applications, experimenting with Generative AI, and connecting software with IoT and robotics.
+
+- Building Python-based applications and APIs
+- Exploring Machine Learning and Deep Learning
+- Working with data analysis and visualization
+- Experimenting with LLMs, RAG, and AI agents
+- Developing web and mobile application concepts
+- Exploring IoT, embedded systems, and robotics
+- Learning modern deployment and DevOps workflows
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top" align="center">
 
-### ◈ Mobile & Cloud Engineering
-
-Flutter, Dart, Android Studio, Git, Docker, AWS, CI/CD workflows, Linux, deployment, and application development.
+<img src="https://github-readme-stats.vercel.app/api?username=Akshaykumarpaladugu&show_icons=true&hide_border=true&bg_color=071A2F&title_color=22D3EE&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
 </td>
 </tr>
 </table>
 
-> **My approach:** Stay curious, test ideas, learn from results, and build with a clear purpose.
+</td>
+</tr>
+</table>
 
-## `02` / TECH STACK
+<br/>
+
+<!-- ======================== 02 TECH STACK ======================== -->
+
+<table>
+<tr>
+<td>
+
+<h2>02 / TECH STACK & TOOLKIT</h2>
+
+<p>
+A categorized overview of technologies and tools I work with, explore, or use in projects.
+</p>
+
+</td>
+</tr>
+<tr>
+<td>
+
+### `01` Programming Languages
 
 <div align="center">
 
-### **LANGUAGES & DATA**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,dart,html,css,mysql&perline=10" alt="Python, C, C++, Java, JavaScript, TypeScript, Dart, HTML, CSS and MySQL"/>
-
-### **FRONTEND & FULL-STACK DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,vite,redux&perline=8" alt="React, Next.js, Vue, Angular, Tailwind CSS, Bootstrap, Vite and Redux"/>
-
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,php&perline=8" alt="Django, Flask, FastAPI, Node.js, Express and PHP"/>
-
-<img src="https://img.shields.io/badge/REST%20APIs-Backend%20Integration-0F766E?style=for-the-badge" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JSON-Data%20Exchange-64748B?style=for-the-badge" alt="JSON"/>
-<img src="https://img.shields.io/badge/WebSockets-Realtime%20Communication-2563EB?style=for-the-badge" alt="WebSockets"/>
-
-### **MOBILE & CROSS-PLATFORM DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java&perline=8" alt="Flutter, Dart, Android Studio, Kotlin and Java"/>
-
-### **DATABASES & DATA PLATFORMS**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase&perline=8" alt="MySQL, MongoDB, PostgreSQL, Redis, Firebase and Supabase"/>
-
-<img src="https://img.shields.io/badge/SQL-Database%20Engineering-0891B2?style=for-the-badge" alt="SQL"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-RAG%20Foundations-7C3AED?style=for-the-badge" alt="Vector databases"/>
-<img src="https://img.shields.io/badge/Elasticsearch-Search%20Systems-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-
-### **MACHINE LEARNING & COMPUTER VISION**
-
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=8" alt="Scikit-learn, PyTorch, TensorFlow and OpenCV"/>
-
-<img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC6B23?style=for-the-badge" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/LightGBM-Gradient%20Boosting-4B8B3B?style=for-the-badge" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/ONNX-Model%20Interoperability-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
-<img src="https://img.shields.io/badge/MLflow-ML%20Lifecycle-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-
-### **GENERATIVE AI · NLP · LLMs**
-
-<img src="https://img.shields.io/badge/LLMs-Application%20Prototypes-6D28D9?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LangChain-LLM%20Workflows-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-2563EB?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-Model%20Exploration-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Exploration-111827?style=for-the-badge" alt="Ollama"/>
-<img src="https://img.shields.io/badge/CrewAI-Multi--Agent%20Workflows-6D28D9?style=for-the-badge" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/LlamaIndex-Data%20Frameworks-6366F1?style=for-the-badge" alt="LlamaIndex"/>
-<img src="https://img.shields.io/badge/Transformers-Foundation%20Models-FFD21E?style=for-the-badge" alt="Transformers"/>
-<img src="https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge" alt="spaCy"/>
-<img src="https://img.shields.io/badge/NLTK-Text%20Processing-15803D?style=for-the-badge" alt="NLTK"/>
-
-### **DATA ANALYTICS & VISUALIZATION**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=8" alt="NumPy and Pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Charts-4C72B0?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-Data%20Processing-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-Data%20Pipelines-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-<img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-### **CLOUD · DEVOPS · AUTOMATION**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,jenkins,githubactions,linux,bash,vscode,postman&perline=10" alt="Git, GitHub, Docker, Kubernetes, AWS, Azure, Jenkins, GitHub Actions, Linux, Bash, VS Code and Postman"/>
-
-<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Ansible-Configuration%20Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/Nginx-Web%20Server-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-<img src="https://img.shields.io/badge/Nexus-Artifact%20Management-143055?style=for-the-badge" alt="Nexus"/>
-
-### **ROBOTICS & CONNECTED DEVICES**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" alt="Arduino and Raspberry Pi"/>
-
-<img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-IoT%20Prototyping-007ACC?style=for-the-badge" alt="ESP32 and ESP8266"/>
-<img src="https://img.shields.io/badge/MQTT-Device%20Messaging-660066?style=for-the-badge" alt="MQTT"/>
-<img src="https://img.shields.io/badge/ROS%202-Robotics%20Middleware-22314E?style=for-the-badge" alt="ROS 2"/>
-<img src="https://img.shields.io/badge/PlatformIO-Embedded%20Development-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
-<img src="https://img.shields.io/badge/OpenCV%20%2B%20AI-Visual%20Perception-5C3EE8?style=for-the-badge" alt="Computer vision for robotics"/>
-<img src="https://img.shields.io/badge/Embedded%20C%20%2F%20C%2B%2B-Firmware%20Development-00599C?style=for-the-badge" alt="Embedded C and C++"/>
-<img src="https://img.shields.io/badge/IoT%20Sensors-Data%20Acquisition-0F766E?style=for-the-badge" alt="IoT sensors"/>
-<img src="https://img.shields.io/badge/Edge%20AI-Device%20Inference-6D28D9?style=for-the-badge" alt="Edge AI"/>
-
-### **DEVELOPER PRODUCTIVITY & TESTING**
-
-<img src="https://skillicons.dev/icons?i=pytest,selenium,figma,notion&perline=8" alt="Pytest, Selenium, Figma and Notion"/>
-
-<img src="https://img.shields.io/badge/Playwright-End--to--End%20Testing-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Swagger-API%20Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Pre--commit-Code%20Quality-FAB040?style=for-the-badge" alt="Pre-commit"/>
-<img src="https://img.shields.io/badge/UV-Python%20Package%20Management-DE5FE9?style=for-the-badge" alt="uv"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,dart,html,css,mysql&perline=10" alt="Programming languages"/>
 
 </div>
 
+---
+
+### `02` Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,vite,redux&perline=8" alt="Frontend technologies"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Responsive%20UI-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Modern%20Web%20Apps-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20Integration-6D5AE6?style=flat-square"/>
+</p>
+
+---
+
+### `03` Backend & APIs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,php&perline=6" alt="Backend technologies"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST%20APIs-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication-075985?style=flat-square"/>
+</p>
+
+---
+
+### `04` Mobile Application Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java&perline=5" alt="Mobile development technologies"/>
+
+</div>
+
+---
+
+### `05` Databases & Storage
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase,elasticsearch&perline=7" alt="Database technologies"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Databases-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/NoSQL-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Database%20Concepts-6D5AE6?style=flat-square"/>
+</p>
+
+---
+
+### `06` Machine Learning & Deep Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=4" alt="Machine learning technologies"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--learn-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0F766E?style=flat-square"/>
+</p>
+
+---
+
+### `07` Generative AI, LLMs & NLP
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ai,openai,huggingface&perline=3" alt="AI ecosystem"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LLMs-075985?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6D5AE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-075985?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/CrewAI-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/spaCy-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLTK-6D5AE6?style=flat-square"/>
+</p>
+
+---
+
+### `08` Data Science, Analytics & Visualization
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=3" alt="Data science tools"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Airflow-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-6D5AE6?style=flat-square"/>
+</p>
+
+---
+
+### `09` Cloud, DevOps & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,terraform,ansible,linux,bash,nginx,git,github&perline=7" alt="Cloud and DevOps tools"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CI%2FCD-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Containerization-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Monitoring%20Concepts-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/SonarQube-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nexus-6D5AE6?style=flat-square"/>
+</p>
+
+---
+
+### `10` Robotics, IoT & Embedded Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python&perline=4" alt="Robotics and IoT tools"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ESP32-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESP8266-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/MQTT-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROS%202-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/PlatformIO-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Edge%20AI-075985?style=flat-square"/>
+</p>
+
+---
+
+### `11` Testing, API Tools & Productivity
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytest,selenium,postman,figma,vscode,notion&perline=6" alt="Testing and productivity tools"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Playwright-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Swagger-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/pre--commit-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/uv%20Python%20Package%20Manager-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON%20Tools-075985?style=flat-square"/>
+</p>
+
+---
+
 <details>
-<summary><strong>Explore my toolkit by category</strong></summary>
+<summary><b>▸ Explore additional technology areas</b></summary>
 
-| Area | Tools and concepts |
-|:--|:--|
-| Programming | Python, C, C++, Java, JavaScript, TypeScript, Dart, SQL, HTML, CSS |
-| Frontend | React, Next.js, Vue, Angular, Tailwind CSS, Bootstrap, Vite, Redux |
-| Backend | Django, Flask, FastAPI, Node.js, Express, PHP, REST APIs, WebSockets |
-| Mobile | Flutter, Dart, Android Studio, Kotlin |
-| Databases | MySQL, MongoDB, PostgreSQL, Redis, Firebase, Supabase, Elasticsearch, vector database concepts |
-| Data science | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Power BI, Apache Spark, Airflow |
-| AI / ML | PyTorch, TensorFlow, OpenCV, XGBoost, LightGBM, MLflow, ONNX |
-| GenAI / NLP | OpenAI API, Hugging Face, LangChain, LangGraph, CrewAI, LlamaIndex, Ollama, Transformers, RAG, embeddings, spaCy, NLTK |
-| Audio / vision | OpenCV, speech-to-text workflows, computer vision |
-| Cloud / DevOps | AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux, Nginx |
-| Code quality / APIs | Git, GitHub, Postman, Swagger, SonarQube, Nexus, Pytest, Selenium, Playwright |
-| Robotics / IoT | Arduino, Raspberry Pi, ESP32, ESP8266, Embedded C/C++, sensors, actuators, MQTT, ROS 2, PlatformIO, Edge AI |
+<br/>
 
-*This inventory includes technologies and tools to use or explore. Listing a tool does not imply expert-level mastery or production experience with it.*
+<table>
+<tr>
+<th align="left">Area</th>
+<th align="left">Technologies & Concepts</th>
+</tr>
+<tr>
+<td><b>Software Engineering</b></td>
+<td>OOP, Data Structures & Algorithms, design patterns, modular architecture, debugging</td>
+</tr>
+<tr>
+<td><b>Data Engineering</b></td>
+<td>ETL/ELT concepts, data pipelines, batch processing, data quality, workflow orchestration</td>
+</tr>
+<tr>
+<td><b>Generative AI</b></td>
+<td>Embeddings, vector search, retrieval pipelines, tool calling, evaluation and guardrails</td>
+</tr>
+<tr>
+<td><b>Cloud Architecture</b></td>
+<td>Compute, storage, networking, IAM concepts, deployment and environment configuration</td>
+</tr>
+<tr>
+<td><b>IoT Systems</b></td>
+<td>Microcontrollers, sensor data collection, device communication, automation, telemetry</td>
+</tr>
+<tr>
+<td><b>Web Engineering</b></td>
+<td>Responsive interfaces, form validation, API integration, session handling, authentication</td>
+</tr>
+</table>
 
 </details>
 
-## `03` / GITHUB PULSE
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================== 03 GITHUB PULSE ======================== -->
+
+<table>
+<tr>
+<td>
+
+<h2>03 / GITHUB PULSE</h2>
+
+<p>
+A snapshot of my public GitHub activity and coding journey.
+</p>
+
+</td>
+</tr>
+<tr>
+<td>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshaykumarpaladugu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=0891B2&icon_color=6D5AE6&text_color=64748B" height="170" alt="GitHub overview statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykumarpaladugu&layout=compact&hide_border=true&theme=transparent&title_color=0891B2&text_color=64748B" height="170" alt="Most-used language statistics"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akshaykumarpaladugu&hide_border=true&background=00000000&ring=0891B2&fire=6D5AE6&currStreakLabel=0891B2&sideLabels=64748B&dates=94A3B8&currStreakNum=334155&sideNums=334155" width="80%" alt="GitHub contribution streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaykumarpaladugu&bg_color=00000000&color=64748B&line=0891B2&point=6D5AE6&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
-<sub>Statistics and activity visuals are provided by third-party services. Their availability, caching, and displayed data are outside this README's control.</sub>
-
-## `04` / CURRENT INTERESTS
-
-- Building useful applications with **LLMs, retrieval, embeddings, and AI-assisted workflows**.
-- Improving end-to-end **data analysis and machine-learning pipelines**.
-- Experimenting with **computer vision, speech processing, robotics, and IoT**.
-- Developing **React, Django, and Flutter applications** connected to APIs and databases.
-- Exploring **cloud deployment, automation, containerization, and CI/CD**.
-- Learning about **AI agents, local LLMs, vector search, and edge AI**.
-
-## `05` / AVAILABILITY & COLLABORATION
-
-<div align="center">
-
-| Opportunity | Availability |
-|:--|:--|
-| Python and AI / ML projects | Open to discussing |
-| Data analysis and visualization | Open to discussing |
-| GenAI / LLM prototypes | Open to collaboration |
-| React, Django, and Flutter applications | Open to collaboration |
-| Robotics and IoT prototypes | Open to collaboration |
-| Technical mentoring / knowledge sharing | By arrangement |
-| Freelance and consulting requests | Discuss scope and timeline |
-
-</div>
-
-Interested in a practical idea or technical collaboration? Reach out with a short description of the problem, goals, and timeline. I'll confirm availability and fit directly.
-
-## `06` / CONNECT
-
-<div align="center">
-
-<a href="https://github.com/Akshaykumarpaladugu"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
-<a href="https://www.linkedin.com/in/paladuguakshaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://coachwallah.com"><img src="https://img.shields.io/badge/Coach%20Wallah-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="mailto:akshaykumar8331@gmail.com"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Akshaykumarpaladugu">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshaykumarpaladugu&show_icons=true&hide_border=true&bg_color=071A2F&title_color=22D3EE&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/Akshaykumarpaladugu">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykumarpaladugu&layout=compact&hide_border=true&bg_color=071A2F&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Most used languages"/>
+</a>
 
 <br/><br/>
 
-**Curiosity → Experiments → Useful solutions.**
+<img width="80%" src="https://streak-stats.demolab.com?user=Akshaykumarpaladugu&hide_border=true&background=071A2F&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6" width="100%" alt="Decorative footer"/>
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaykumarpaladugu&bg_color=071A2F&color=E2E8F0&line=22D3EE&point=2DD4BF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================== 04 CURRENT INTERESTS ======================== -->
+
+<table>
+<tr>
+<td>
+
+<h2>04 / CURRENT INTERESTS</h2>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents and tool calling
+- Machine Learning model development
+- Natural Language Processing
+- Computer Vision
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering & Data
+
+- Python application development
+- Data analysis and visualization
+- API and backend engineering
+- Cloud deployment and CI/CD
+- IoT and embedded systems
+- Robotics and Edge AI
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================== 05 COLLABORATION ======================== -->
+
+<table>
+<tr>
+<td>
+
+<h2>05 / AVAILABILITY & COLLABORATION</h2>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/OPEN-TO%20COLLABORATE-075985?style=for-the-badge"/>
+
+<br/><br/>
+
+**Open Source**
+
+Interested in collaborating on useful projects, tools, and community-driven development.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/BUILD-TOGETHER-0F766E?style=for-the-badge"/>
+
+<br/><br/>
+
+**AI & Data Projects**
+
+Interested in practical AI, ML, data science, automation, and application development.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/SHARE-IDEAS-6D5AE6?style=for-the-badge"/>
+
+<br/><br/>
+
+**Technical Exchange**
+
+Happy to connect with developers, learners, and builders to exchange ideas and knowledge.
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================== 06 CONNECT ======================== -->
+
+<table>
+<tr>
+<td>
+
+<h2>06 / CONNECT WITH ME</h2>
+
+<p>
+Have a project idea, technical question, or collaboration opportunity? Let's connect.
+</p>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<div align="center">
+
+<a href="https://github.com/Akshaykumarpaladugu">
+<img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/paladuguakshaykumar/">
+<img src="https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://coachwallah.com">
+<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:akshaykumar8331@gmail.com">
+<img src="https://img.shields.io/badge/Email-6D5AE6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Open to meaningful conversations, practical projects, and learning opportunities.**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6"/>
+
+<sub>Designed with purpose · Built with curiosity · Powered by continuous learning</sub>
 
 </div>
